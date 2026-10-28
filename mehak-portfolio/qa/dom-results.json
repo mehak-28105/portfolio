@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "checks": [
+    "React rendering",
+    "IntersectionObserver unavailable fallback",
+    "Project selection",
+    "Project expand/collapse",
+    "Project keyboard navigation",
+    "Experience accordion",
+    "Skill filter and show-all",
+    "Mobile menu state, Escape and navigation close",
+    "Clipboard copy",
+    "All internal anchors",
+    "No invented external links",
+    "No DOM runtime errors"
+  ],
+  "limitations": [
+    "No real viewport or pixel rendering in jsdom",
+    "Browser screenshot and viewport tests blocked by execution environment"
+  ],
+  "timestamp": "2026-10-28T17:56:08.950Z"
+}
